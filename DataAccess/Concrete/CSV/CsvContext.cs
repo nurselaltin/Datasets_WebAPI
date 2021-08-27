@@ -17,7 +17,7 @@ namespace DataAccess.Concrete.CSV
 
         public CsvContext()
         {
-            rows = File.ReadAllLines(@"C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\DataAccess\Datasets\sample_data.csv");
+            rows = File.ReadAllLines(@"C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\DataAccess\Datasets\sample_data.csv");
         }
 
 

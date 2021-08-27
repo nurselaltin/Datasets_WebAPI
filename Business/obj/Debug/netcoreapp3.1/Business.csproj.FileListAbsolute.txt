@@ -12,3 +12,17 @@ C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\Business\bin\Debu
 C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\Business\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Business\obj\Debug\netcoreapp3.1\Business.pdb

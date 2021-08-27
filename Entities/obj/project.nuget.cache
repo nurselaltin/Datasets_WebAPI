@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jn4JVDEsc69CZPjiwx3ANtXb8WVx7KGUZlcqnvCrme9J74BdccFFA/gN8uMy6ZU8ZnY9azRobv+hAZy/44CK/g==",
+  "dgSpecHash": "cp3pc1M2/dPYvxcXNIBTXp9SZvRa/1pS6xkj6EQZkDDAPHlX4cqGOqCEN5tzm+DXHbiPLs04SwD/USoAbaRFGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nursel\\Desktop\\API-Project\\API_Project\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Nursel\\Desktop\\Software\\Projects\\C#\\Ornek-Projeler\\APIs\\Datasets_WebAPI\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

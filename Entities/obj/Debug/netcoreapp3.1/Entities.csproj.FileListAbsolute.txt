@@ -7,3 +7,12 @@ C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\Entities\obj\Debu
 C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

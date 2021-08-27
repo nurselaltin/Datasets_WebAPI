@@ -14,7 +14,7 @@ namespace DataAccess.Concrete.XML
         public XmlContext()
         {
             xmlDocument = new XmlDocument();
-            xmlDocument.Load(@"C:\Users\Nursel\Desktop\Projects\C#\Ornek-Projeler\API_Project\DataAccess\Datasets\sample_data.xml");
+            xmlDocument.Load(@"C:\Users\Nursel\Desktop\Software\Projects\C#\Ornek-Projeler\APIs\Datasets_WebAPI\DataAccess\Datasets\sample_data.xml");
             xmlNode = xmlDocument.SelectSingleNode("AddressInfo");
         }
 
